@@ -1,5 +1,6 @@
 ### IntelliJ IDEA ###
 out/
+/documentacion
 !**/src/main/**/out/
 !**/src/test/**/out/
 
